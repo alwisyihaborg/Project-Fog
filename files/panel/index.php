@@ -42,7 +42,7 @@ $config_fog = "config.zip";				 // Zip File Name for your OVPN Config /Default: 
 /* Sample: 1=>array(1=>"Name of your Server 1","your-ip-address","server-or-root-password","5"), */
 
 $server_lists_array=array(
-			1=>array(1=>"VIP Server","fogserverip","server-or-root-password","5"),
+			1=>array(1=>"VIP Server","fogserverip","williamvps","5"),
 			2=>array(1=>"Reserve 1 ","your-server-ip-2.here","server-or-root-password","5"),
 			3=>array(1=>"Reserve 2","your-server-ip-3.here","server-or-root-password","5"),
 	);			
